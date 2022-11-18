@@ -1,1 +1,1 @@
-A basic template for my Next.js and Chakra UI workflow.
+An Ecommerce Admin app built with Xata and Cloudinary

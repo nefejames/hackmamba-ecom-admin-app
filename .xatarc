@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Nefe-Emadamerho-s-workspace-jpp5c8.us-east-1.xata.sh/db/ecommerce-app",
+  "codegen": {
+    "output": "utils/xata.js",
+    "moduleType": "esm"
+  }
+}
